@@ -27,4 +27,3 @@ def find_valid_calls(planeteer_calls)
   cheese == "Earth!"
 end
 end
-end
